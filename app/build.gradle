@@ -5,7 +5,7 @@ apply plugin: 'com.neenbedankt.android-apt'
 
 android {
     compileSdkVersion 21
-    buildToolsVersion "21.1.2"
+    buildToolsVersion "23.0.3"
 
     defaultConfig {
         applicationId "net.grzechocinski.android.dagger2example"
